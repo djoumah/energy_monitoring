@@ -1,3 +1,4 @@
+# Mini projet 
 # Système de Suivi et Analyse de la Consommation Énergétique
 
 ## 📋 Description
@@ -12,10 +13,10 @@ Ce projet simule un dispositif de suivi et d'analyse de la consommation énergé
 
 ### Étapes
 
-```bash
-# 1. Cloner le dépôt
-git clone https://github.com/votre-username/energy-monitoring.git
-cd energy-monitoring
+
+# 1. Telecharger le depot 
+puis extraire les fichiers sur votre pc 
+
 
 # 2. Créer l'environnement virtuel
 python -m venv venv
@@ -66,5 +67,5 @@ flake8 src/ tests/ main.py
 
 ## 📄 Licence
 
-MIT License
-"# energy_monitoring" 
+UMMTO PHD  License
+"#  Mini Projet energy_monitoring" 
